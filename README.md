@@ -1,5 +1,5 @@
 
-# Basketball Hot Hand Analysis-The Kobe Bryant Case Study
+# Basketball Hot Hand Analysis-The Kobe Bryant analysis
 
 ## Overview
 This project analyzes the "hot hand" phenomenon in basketball using statistical analysis and simulation. The study focuses on Kobe Bryant's performance in the 2009 NBA Finals, comparing his actual shooting patterns to simulated data to test the hot hand theory.
